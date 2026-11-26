@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hi there 👋# > Hello, World! 👾
 
+### Navid | Python Developer
+
+```bash
+whoami
+> aspiring cybersecurity engineer
 <!--
-**navidfarahani1910-prog/navidfarahani1910-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
