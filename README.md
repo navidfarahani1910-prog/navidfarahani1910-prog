@@ -35,6 +35,58 @@ STATUS: BUILDING...
 
 ⸻
 
+📊 SYSTEM STATISTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=navidfarahani1910-prog&show_icons=true&theme=chartreuse-dark&hide_border=true" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navidfarahani1910-prog&layout=compact&theme=chartreuse-dark&hide_border=true" />
+
+🗂️ FEATURED PROJECTS
+
+Project	Description	Language
+Calculator	Basic Calculator	Python
+Contact Manager	Contact Management System	Python
+Expense Manager	Expense Tracking	Python
+
+⸻
+
+⚡ TECHNICAL SKILLS
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode" />
+</p>
+
+🌐 LEARNING PATH
+
+[01] Python Programming       [IN PROGRESS]
+[02] Linux Fundamentals       [IN PROGRESS]
+[03] Computer Networking      [IN PROGRESS]
+[04] Cybersecurity            [EXPLORING]
+[05] Network Pentesting       [FUTURE GOAL]
+</p>
+
+### 🟢 MISSION STATUS
+
+```text
+CURRENT OBJECTIVE: Become a Cybersecurity Engineer
+PRIMARY LANGUAGE: Python
+ENVIRONMENT: Linux / Windows
+STATUS: LEARNING...
+
 <p align="center">
   <code>ACCESS GRANTED</code>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=navidfarahani1910-prog&color=39FF14&style=for-the-badge&label=PROFILE+VISITORS"/>
+</p>
+
+### 📈 ACTIVITY GRAPH
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=navidfarahani1910-prog&theme=chartreuse-dark&hide_border=true" width="100%"/>
+
+<p align="center">
+  <code>root@navid:~$ exit</code>
 </p>
