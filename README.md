@@ -35,6 +35,17 @@ STATUS: BUILDING...
 
 ⸻
 
+<h2 align="center">⚡ SYSTEM BOOT SEQUENCE</h2>
+<p align="center">
+  <img src="boot.gif" width="100%" alt="NAVID.exe Boot Animation"/>
+</p>
+<p align="center">
+  <code>BOOT STATUS: SUCCESSFUL</code>
+</p>
+
+⸻
+⸻
+
 📊 SYSTEM STATISTICS
 
 <p align="center">
