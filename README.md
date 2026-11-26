@@ -69,7 +69,8 @@ Expense Manager	Expense Tracking	Python
 
 ### 🟢 MISSION STATUS
 
-```text
+🟢 MISSION STATUS
+
 CURRENT OBJECTIVE: Become a Cybersecurity Engineer
 PRIMARY LANGUAGE: Python
 ENVIRONMENT: Linux / Windows
