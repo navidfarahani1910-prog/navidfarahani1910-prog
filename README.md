@@ -107,7 +107,7 @@ STATUS: LEARNING...
 
 ### 📈 ACTIVITY GRAPH
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=navidfarahani1910-prog&theme=chartreuse-dark&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=navidfarahani1910-prog&theme=chartreuse-dark&hide_border=true" width="100%"/>
 
 <p align="center">
   <code>root@navid:~$ exit</code>
